@@ -18,7 +18,7 @@ image.shape
 
 
 # Load image in color
-image_bgr = cv2.imread("god.png", cv2.IMREAD_COLOR)
+image_bgr = cv2.imread("god.jpg", cv2.IMREAD_COLOR)
 # Show pixel
 image_bgr[0,0]
 
@@ -30,7 +30,7 @@ plt.imshow(image_rgb), plt.axis("off")
 plt.show()
 
 # Save image
-cv2.imwrite("images/plane_new.jpg", image)
+cv2.imwrite("god_new.jpg", image)
 
 
 # Resize image to 50 pixels by 50 pixels
