@@ -1,2 +1,2 @@
-# -mage-Proccessing-Usefull-Codes
+# -Image-Proccessing-Usefull-Codes
 Usefull codes for image process
